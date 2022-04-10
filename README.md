@@ -6,4 +6,4 @@ text processing, feature vector generation, classification model, and performanc
 are written.
 
 
-The code.ipynb file contains the code for the project.
+**The code.ipynb file contains the code for the project.**
