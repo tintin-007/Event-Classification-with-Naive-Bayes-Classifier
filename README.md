@@ -2,7 +2,7 @@
 
 In this project categories of events are predicted by a Naive Bayes classifier from their names and
 descriptions. A dataset over 1400 events of 34 categories is prepared by scraping several websites. Codes for
-text processing, feature vector generation, classification model, and performance evaluation of the classifier
+web scraping, text processing, feature vector generation, classification model, and performance evaluation of the classifier
 are written.
 
 
